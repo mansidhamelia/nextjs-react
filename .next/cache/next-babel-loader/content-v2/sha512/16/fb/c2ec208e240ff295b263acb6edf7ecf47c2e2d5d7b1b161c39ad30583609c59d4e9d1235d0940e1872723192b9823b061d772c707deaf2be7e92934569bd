@@ -1,0 +1,1 @@
+{"ast":null,"code":"function Home() {\n  return;\n}\n\nexport default Home;","map":{"version":3,"sources":["D:/project_work/react/nextjs-project/pages/index.js"],"names":["Home"],"mappings":"AAEA,SAASA,IAAT,GAAgB;AAChB;AACC;;AAED,eAAeA,IAAf","sourcesContent":["\r\n\r\nfunction Home() {\r\nreturn \r\n}\r\n\r\nexport default Home"]},"metadata":{},"sourceType":"module"}
